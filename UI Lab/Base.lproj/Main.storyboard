@@ -50,7 +50,7 @@
                 </viewControllerPlaceholder>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="END-pc-zhM" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1264" y="560"/>
+            <point key="canvasLocation" x="1287" y="646"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="3HC-As-EgV">
@@ -76,7 +76,7 @@
                 <viewControllerPlaceholder storyboardName="AreaCalc" referencedIdentifier="AreaCalc" id="91V-J2-tf4" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GnV-y4-yuN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="740" y="665"/>
+            <point key="canvasLocation" x="740" y="639"/>
         </scene>
     </scenes>
 </document>

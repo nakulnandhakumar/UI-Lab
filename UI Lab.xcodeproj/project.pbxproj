@@ -113,9 +113,9 @@
 				033C2A952360FB1F0061C7C4 /* Main.storyboard */,
 				033C2AC12360FB750061C7C4 /* AreaCalc.storyboard */,
 				033C2A9A2360FB210061C7C4 /* LaunchScreen.storyboard */,
+				0304413123624C89005E3344 /* Pythagorean.storyboard */,
 				033C2A9D2360FB210061C7C4 /* Info.plist */,
 				033C2A9E2360FB210061C7C4 /* main.m */,
-				0304413123624C89005E3344 /* Pythagorean.storyboard */,
 			);
 			path = "UI Lab";
 			sourceTree = "<group>";
