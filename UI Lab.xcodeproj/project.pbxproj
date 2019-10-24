@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0304413223624C89005E3344 /* Pythagorean.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0304413123624C89005E3344 /* Pythagorean.storyboard */; };
 		033C2A912360FB1F0061C7C4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 033C2A902360FB1F0061C7C4 /* AppDelegate.m */; };
 		033C2A942360FB1F0061C7C4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 033C2A932360FB1F0061C7C4 /* ViewController.m */; };
 		033C2A972360FB1F0061C7C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 033C2A952360FB1F0061C7C4 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 		033C2A9F2360FB210061C7C4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 033C2A9E2360FB210061C7C4 /* main.m */; };
 		033C2AA92360FB210061C7C4 /* UI_LabTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 033C2AA82360FB210061C7C4 /* UI_LabTests.m */; };
 		033C2AB42360FB210061C7C4 /* UI_LabUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 033C2AB32360FB210061C7C4 /* UI_LabUITests.m */; };
+		033C2AC22360FB750061C7C4 /* AreaCalc.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 033C2AC12360FB750061C7C4 /* AreaCalc.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0304413123624C89005E3344 /* Pythagorean.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Pythagorean.storyboard; sourceTree = "<group>"; };
 		033C2A8C2360FB1F0061C7C4 /* UI Lab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UI Lab.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		033C2A8F2360FB1F0061C7C4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		033C2A902360FB1F0061C7C4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +54,7 @@
 		033C2AAF2360FB210061C7C4 /* UI LabUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "UI LabUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		033C2AB32360FB210061C7C4 /* UI_LabUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UI_LabUITests.m; sourceTree = "<group>"; };
 		033C2AB52360FB210061C7C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		033C2AC12360FB750061C7C4 /* AreaCalc.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AreaCalc.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,11 +109,13 @@
 				033C2A902360FB1F0061C7C4 /* AppDelegate.m */,
 				033C2A922360FB1F0061C7C4 /* ViewController.h */,
 				033C2A932360FB1F0061C7C4 /* ViewController.m */,
-				033C2A952360FB1F0061C7C4 /* Main.storyboard */,
 				033C2A982360FB210061C7C4 /* Assets.xcassets */,
+				033C2A952360FB1F0061C7C4 /* Main.storyboard */,
+				033C2AC12360FB750061C7C4 /* AreaCalc.storyboard */,
 				033C2A9A2360FB210061C7C4 /* LaunchScreen.storyboard */,
 				033C2A9D2360FB210061C7C4 /* Info.plist */,
 				033C2A9E2360FB210061C7C4 /* main.m */,
+				0304413123624C89005E3344 /* Pythagorean.storyboard */,
 			);
 			path = "UI Lab";
 			sourceTree = "<group>";
@@ -237,6 +243,8 @@
 			files = (
 				033C2A9C2360FB210061C7C4 /* LaunchScreen.storyboard in Resources */,
 				033C2A992360FB210061C7C4 /* Assets.xcassets in Resources */,
+				033C2AC22360FB750061C7C4 /* AreaCalc.storyboard in Resources */,
+				0304413223624C89005E3344 /* Pythagorean.storyboard in Resources */,
 				033C2A972360FB1F0061C7C4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
